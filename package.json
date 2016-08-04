@@ -1,0 +1,10 @@
+{
+  "name": "snekerfrudel",
+  "version": "1.0.0",
+  "description": "Liberated third-party Twitter social management.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Alex Solano",
+  "license": "ISC"
+}
