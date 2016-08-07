@@ -6,3 +6,9 @@ test:
   override:
     - npm install
     - npm test
+
+deployment:
+  production:
+    branch: master
+    heroku:
+      appname: snekerfrudel
